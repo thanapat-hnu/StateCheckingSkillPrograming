@@ -9,6 +9,7 @@ const Event = () => {
 
   return (
     <div>
+      <h1>Event</h1>
       <button
         onClick={() => {
           return alert("Click");

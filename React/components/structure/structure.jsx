@@ -15,7 +15,7 @@ const Structure = () => {
 
   return (
     <div>
-      <h1>Array&Object</h1>
+      <h1>Structure</h1>
       <div>
         <button
           onClick={() => {

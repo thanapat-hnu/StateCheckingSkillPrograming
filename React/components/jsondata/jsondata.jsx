@@ -3,6 +3,7 @@ import data from "./data.json";
 const Jsondata = () => {
   return (
     <div>
+      <h1>JSON</h1>
       <button
         onClick={() => {
           const jsonStringify = JSON.stringify(data);

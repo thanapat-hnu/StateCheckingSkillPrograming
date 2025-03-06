@@ -1,6 +1,7 @@
 const ChangeBackground = () => {
   return (
     <div>
+      <h1>Change Background</h1>
       <button
         className="red"
         style={{ color: "red" }}

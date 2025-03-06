@@ -4,8 +4,9 @@ import Structure from "../components/structure/structure.jsx";
 import Jsondata from "../components/jsondata/jsondata.jsx";
 import ChangeBackground from "../components/changebackground/changebackground.jsx";
 import Event from "../components/event/event.jsx";
-function App() {
+import Formsx from "../components/forms/forms.jsx";
 
+function App() {
   return (
     <div className="App">
       <div className="hello">
@@ -17,6 +18,7 @@ function App() {
         {/* <Jsondata /> */}
         {/* <ChangeBackground /> */}
         {/* <Event /> */}
+        {/* <Formsx /> */}
       </div>
     </div>
   );

@@ -7,6 +7,7 @@ const Datatype = () => {
 
   return (
     <div>
+      <h1>Datatype</h1>
       <button
         onClick={() => {
           console.log(typeof str + "  : " + str);
