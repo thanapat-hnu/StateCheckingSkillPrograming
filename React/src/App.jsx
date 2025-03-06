@@ -8,6 +8,8 @@ import Formsx from "../components/forms/forms.jsx";
 import Pseudocode from "../components/pseudocode/pseudocode.jsx";
 import Age from "../components/age/age.jsx";
 import Loop from "../components/loop/loop.jsx";
+import Factorial from "../components/factorial/factorial.jsx";
+import Fibonacci from "../components/fibonacci/fibonacci.jsx";
 
 function App() {
   return (
@@ -25,6 +27,8 @@ function App() {
         {/* <Pseudocode /> */}
         {/* <Age /> */}
         {/* <Loop /> */}
+        {/* <Factorial /> */}
+        {/* <Fibonacci /> */}
       </div>
     </div>
   );
