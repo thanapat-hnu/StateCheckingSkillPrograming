@@ -5,6 +5,8 @@ import Jsondata from "../components/jsondata/jsondata.jsx";
 import ChangeBackground from "../components/changebackground/changebackground.jsx";
 import Event from "../components/event/event.jsx";
 import Formsx from "../components/forms/forms.jsx";
+import Pseudocode from "../components/pseudocode/pseudocode.jsx";
+import Age from "../components/age/age.jsx";
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
         {/* <ChangeBackground /> */}
         {/* <Event /> */}
         {/* <Formsx /> */}
+        {/* <Pseudocode /> */}
+        {/* <Age /> */}
       </div>
     </div>
   );
