@@ -2,6 +2,7 @@ import "./App.css";
 import Datatype from "../components/datatype/datatype.jsx";
 import Structure from "../components/structure/structure.jsx";
 import Jsondata from "../components/jsondata/jsondata.jsx";
+import ChangeBackground from "../components/changebackground/changebackground.jsx";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         {/* <Datatype /> */}
         {/* <Structure /> */}
         {/* <Jsondata /> */}
+        {/* <ChangeBackground /> */}
       </div>
     </div>
   );
