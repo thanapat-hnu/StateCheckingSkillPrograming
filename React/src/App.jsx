@@ -7,6 +7,7 @@ import Event from "../components/event/event.jsx";
 import Formsx from "../components/forms/forms.jsx";
 import Pseudocode from "../components/pseudocode/pseudocode.jsx";
 import Age from "../components/age/age.jsx";
+import Loop from "../components/loop/loop.jsx";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         {/* <Formsx /> */}
         {/* <Pseudocode /> */}
         {/* <Age /> */}
+        {/* <Loop /> */}
       </div>
     </div>
   );
