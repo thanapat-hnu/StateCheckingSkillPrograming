@@ -1,6 +1,7 @@
 import "./App.css";
 import Datatype from "../components/datatype/datatype.jsx";
 import Structure from "../components/structure/structure.jsx";
+import Jsondata from "../components/jsondata/jsondata.jsx";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <div className="datatype">
         {/* <Datatype /> */}
         {/* <Structure /> */}
+        {/* <Jsondata /> */}
       </div>
     </div>
   );
