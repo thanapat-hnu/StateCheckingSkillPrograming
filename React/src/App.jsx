@@ -1,5 +1,6 @@
 import "./App.css";
 import Datatype from "../components/datatype/datatype.jsx";
+import Structure from "../components/structure/structure.jsx";
 
 function App() {
   return (
@@ -8,7 +9,8 @@ function App() {
         <h1>Hello World Web App</h1>
       </div>
       <div className="datatype">
-        <Datatype />
+        {/* <Datatype /> */}
+        {/* <Structure /> */}
       </div>
     </div>
   );
